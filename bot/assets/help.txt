@@ -7,7 +7,4 @@ Here are some commands I can do:
 /dadjoke - tells a random dad joke
 /chuck - tells a random Chuck Norris joke
 /die password - kills me
-/text phone-num message - sends a text message to someone's phone
 /sendmail to subject body - sends an email
-/translate text lang-code - translates text to a given language
-/weather city state - gives a local weather blurb

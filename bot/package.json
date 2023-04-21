@@ -8,23 +8,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jpe0824/bot.git"
+    "url": "git+https://github.com/ZodiacalPalace/Bot.git"
   },
-  "author": "jpe0824",
+  "author": "ZodiacalPalace8",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/jpe0824/bot/issues"
+    "url": "https://github.com/"
   },
-  "homepage": "https://github.com/jpe0824/bot#readme",
+  "homepage": "https://github.com/ZodiacalPalace/Bot#readme",
   "dependencies": {
-    "discord-player": "^6.2.1",
     "discord.js": "^14.9.0",
     "dotenv": "^16.0.3",
     "lorem-ipsum": "^2.0.8",
     "node-fetch": "^2.6.7",
-    "nodemailer": "^6.9.1",
-    "twilio": "^4.10.0",
-    "weather-js": "^2.0.0",
-    "ytdl-core": "^4.11.4"
+    "nodemailer": "^6.9.1"
   }
 }
