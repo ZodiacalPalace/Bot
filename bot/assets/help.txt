@@ -1,10 +1,9 @@
 Here are some commands I can do:
 
 /command args - description
+/rp - Show RP for specified player
 /help - displays this help info
 /lorem type amount - produces some lorem ipsum words
-/recipe - gives a random recipe
 /dadjoke - tells a random dad joke
 /chuck - tells a random Chuck Norris joke
-/die password - kills me
 /sendmail to subject body - sends an email
